@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN-EH7P94CPKAO",
+    "children" : [ {
+      "name" : "11160-MainThread",
+      "children" : [ {
+        "name" : "D:\\JK_pytest\\testcase\\user.test_user_loaduserList.Test_zhuce.test_zhuce_success",
+        "uid" : "ea7853d77b2db664",
+        "parentUid" : "133d7a0b57bdf0a457a775ac85090cb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608345994,
+          "stop" : 1554608346099,
+          "duration" : 105
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\JK_pytest\\testcase\\sys.test_sys_changPwd.Test_changePwd.test_changePwd_success",
+        "uid" : "13a5a6de9f1138e0",
+        "parentUid" : "133d7a0b57bdf0a457a775ac85090cb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608345826,
+          "stop" : 1554608345944,
+          "duration" : 118
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "133d7a0b57bdf0a457a775ac85090cb8"
+    } ],
+    "uid" : "4e5ae679a3e43d699ccca6c102e8374f"
+  } ]
+}

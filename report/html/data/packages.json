@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "D:\\JK_pytest\\testcase\\sys.test_sys_changPwd.Test_changePwd.test_changePwd_success",
+      "uid" : "13a5a6de9f1138e0",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608345826,
+        "stop" : 1554608345944,
+        "duration" : 118
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\JK_pytest\\testcase\\user.test_user_loaduserList.Test_zhuce.test_zhuce_success",
+      "uid" : "ea7853d77b2db664",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608345994,
+        "stop" : 1554608346099,
+        "duration" : 105
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "559e15d0a5469c40d1629e36b5ae40ea"
+  } ]
+}

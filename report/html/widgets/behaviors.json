@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "ec7ecfcace736a51476836728ba07a3d",
+    "name" : "用户相关信息",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "d2c02ff427a62430af6ff3de721f706e",
+    "name" : "列表相关信息",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

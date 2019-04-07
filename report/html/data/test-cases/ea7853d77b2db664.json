@@ -1,0 +1,63 @@
+{
+  "uid" : "ea7853d77b2db664",
+  "name" : "D:\\JK_pytest\\testcase\\user.test_user_loaduserList.Test_zhuce.test_zhuce_success",
+  "fullName" : "testcase.D:\\JK_pytest\\testcase\\user.test_user_loaduserList.Test_zhuce.test_zhuce_success",
+  "historyId" : "47d41054c1e2e0cd59fe9f1fab3f667",
+  "time" : {
+    "start" : 1554608345994,
+    "stop" : 1554608346099,
+    "duration" : 105
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "列表相关信息"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-EH7P94CPKAO"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "11160-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\JK_pytest\\testcase\\user.test_user_loaduserList.Test_zhuce.test_zhuce_success"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea7853d77b2db664.json",
+  "parameterValues" : [ ]
+}

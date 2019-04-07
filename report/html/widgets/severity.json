@@ -1,0 +1,21 @@
+[ {
+  "uid" : "13a5a6de9f1138e0",
+  "name" : "D:\\JK_pytest\\testcase\\sys.test_sys_changPwd.Test_changePwd.test_changePwd_success",
+  "time" : {
+    "start" : 1554608345826,
+    "stop" : 1554608345944,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea7853d77b2db664",
+  "name" : "D:\\JK_pytest\\testcase\\user.test_user_loaduserList.Test_zhuce.test_zhuce_success",
+  "time" : {
+    "start" : 1554608345994,
+    "stop" : 1554608346099,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

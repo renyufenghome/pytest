@@ -1,0 +1,33 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554608345826" stop="1554608346099">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554608345826" status="passed" stop="1554608345944">
+      <name>D:\JK_pytest\testcase\sys.test_sys_changPwd.Test_changePwd.test_changePwd_success</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改密码。。。。。。。。。。。。。"/>
+        <label name="feature" value="用户相关信息"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11160-MainThread"/>
+        <label name="host" value="WIN-EH7P94CPKAO"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608345994" status="passed" stop="1554608346099">
+      <name>D:\JK_pytest\testcase\user.test_user_loaduserList.Test_zhuce.test_zhuce_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="列表相关信息"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="11160-MainThread"/>
+        <label name="host" value="WIN-EH7P94CPKAO"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
